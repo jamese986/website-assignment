@@ -26,6 +26,12 @@ The website is aimed at tech savvy developers and people who are going to be kno
 
 The modern aspects of the design come in the form of a functional cross device cross platform responsiveness that means no matter the device the site will always look pleasing and remain functional. 
 
+## Standalone Blog post page
+I decided to add an additional page to my website as there was no feasible way to display all the content needed for a blog post on the main page. I did look into accordion type drop downs and a few other methods but ultimately decided to settle with a standalone blog post page as it allows for more of a continuous feel for the site.
+
+The page features a main blog post headed with an image as well as a related posts section and to finish off it has the same sponsorship area and footer as the homepage.
+
+Clean, stylish and accessible. 
 
 ## Website Testing
 
