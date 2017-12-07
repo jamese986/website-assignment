@@ -4,6 +4,12 @@
 
 /* Main Styles */
 
+
+
+
+
+
+
 body,
 html {
     font-family: 'Raleway', sans-serif;
@@ -207,7 +213,7 @@ ol {
 }
 
 .on {
-    background-color: #222222 !important;
+    background-color: #fff !important;
     padding: 0 !important;
 }
 
