@@ -9,6 +9,7 @@
   <link href="assets/css/style.css" rel="stylesheet">
   <!-- js imports -->
   <script src="https://use.fontawesome.com/1fdc368cde.js"></script>
+  
 </head>
 <body>
 <!-- Navigation -->
@@ -290,7 +291,7 @@
   <section class="block section-padding">
     <div class="container mb-medium">
       <div id="map-wrapper" class="edit-map apply-handle-wrapper">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d2421.66098510678!2d-1.1405266838147772!3d52.629970229835095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sdmu!5e0!3m2!1sen!2suk!4v1512052810173" style="border:0" allowfullscreen="" width="600" height="450"></iframe>
+         <div id="map"></div>            
       </div>
     </div>
 
@@ -360,12 +361,17 @@
             <a href="https://plus.google.com/103011102637243054782/posts"><i class="fa fa-google-plus fa-2x edit-icon"></i></a>
             <a href="index.html"><i class="fa fa-home fa-2x edit-icon"></i></a>
         </div>
-        <div class="copyright-tag">James English - Front End Web Assignment 2017</div>
+        <div class="copyright-tag">P14138628 | James English&copy; | Front End Web Assignment 2017 | <a href="">sitemap</a></div>
     </div>
 </footer>
 
+<!-- Scripts Start -->
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDZnPN2MlGPV4IpHBMjAxqnTgkA7i9501I &callback=initMap"></script>
+<script src="assets/js/map.js"></script>
+
 <!-- Script end-->
 </body>
 </html>
