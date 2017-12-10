@@ -3,7 +3,10 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600');
 
 /* Main Styles */
-
+#map{
+    height: 500px;
+    width: auto;
+}
 .box{
     display: block;
     height: auto;
