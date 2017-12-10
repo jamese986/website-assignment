@@ -26,6 +26,8 @@ The website is aimed at tech savvy developers and people who are going to be kno
 
 The modern aspects of the design come in the form of a functional cross device cross platform responsiveness that means no matter the device the site will always look pleasing and remain functional. 
 
+###Added Google Maps API above the contact us page for greater clarity and added a pop up window and custom marker.
+
 ## Standalone Blog post page
 I decided to add an additional page to my website as there was no feasible way to display all the content needed for a blog post on the main page. I did look into accordion type drop downs and a few other methods but ultimately decided to settle with a standalone blog post page as it allows for more of a continuous feel for the site.
 
@@ -42,3 +44,5 @@ Clean, stylish and accessible.
 * Bootstrap
 * Font Awesome
 * W3C
+* Google Maps API
+* All Dynamic images are randomly pulled from the copyright free website Upsplash
