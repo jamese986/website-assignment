@@ -20,7 +20,7 @@ the following is a list of software I used to create and carry out the assignmen
 I used Photoshop to create a very basic mock up of some of the elements of my website. I used a variety of Apple devices to show how the main elements of the site will be responsive.
 
 ## Homepage Design & Build
-I have created a video to discuss my design approach the video can be found in the design-and-testing folder or [alternatively can be found here](https://www.youtube.com/watch?v=qM0DMhy39V4)
+I have created a video to discuss my design approach [the video can be found here](https://youtu.be/qM0DMhy39V4).
 My initial concept for this project was to create a one page website. I knew I wanted my design and aesthetics to revolve around some key design characteristics: 
 #### Clean, Modern and Minimalistic
 The website is aimed at tech savvy developers and people who are going to be knowledgeable about the latest web design trends. Firstly I wanted my website to be clean tidy and Minimalistic in it's initial presentation to the site visitors. This serves 2 purposes firstly from a design point of view it looks very pleasing and secondly a clean well structured site allows for information to be easily found. This allows people with accessibility issue to navigate far easier than something like a Geocities website from the 90's.
@@ -37,10 +37,12 @@ The page features a main blog post headed with an image as well as a related pos
 Clean, stylish and accessible. 
 
 ## Website Testing
-I have created a testing video in which myself and another student carry out testing and discuss our findings the video can be found in the design-and-testing folder or [alternatively can be found here](https://www.youtube.com/watch?v=qrXkA7N3wOA) 
+I have created a testing video in which myself and another student carry out testing and discuss our findings [the video can be found here](https://youtu.be/qrXkA7N3wOA). 
 
 ## Deployment
 To deploy the website instead of pushing the site to the public html fodlers on the university computers or other servers. Deployment will come in the form of pushing the final version of the assignment to git. Where pages will be viewed view the GitHub Live view URL.
+
+I have created a video discussing multiple aspects and processes of the assignment [the video can be found here](https://youtu.be/fMeZ6FKETTA),
 
 ## Acknowledgments
 * Dave & Fanias slides 
