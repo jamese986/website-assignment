@@ -38,6 +38,7 @@ Clean, stylish and accessible.
 ## Website Testing
 
 ## Deployment
+To deploy the website instead of pushing the site to the public html fodlers on the university computers or other servers. Deployment will come in the form of pushing the final version of the assignment to git. Where pages will be viewed view the GitHub Live view URL.
 
 ## Acknowledgments
 * Dave & Fanias slides 
