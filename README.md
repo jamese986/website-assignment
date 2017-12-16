@@ -18,6 +18,8 @@ the following is a list of software I used to create and carry out the assignmen
 
 ## Mock Up
 I used Photoshop to create a very basic mock up of some of the elements of my website. I used a variety of Apple devices to show how the main elements of the site will be responsive.
+![Mock UP](https://github.com/jamese986/website-assignment/blob/master/mockups/web-mockup.png)
+
 
 ## Homepage Design & Build
 I have created a video to discuss my design approach [the video can be found here](https://youtu.be/qM0DMhy39V4).
@@ -38,6 +40,12 @@ Clean, stylish and accessible.
 
 ## Website Testing
 I have created a testing video in which myself and another student carry out testing and discuss our findings [the video can be found here](https://youtu.be/qrXkA7N3wOA). 
+Obviously we weren't able to record the whole testing process but some of the things identified and fixed are listed below:
+
+* Adjusted images sizes to look better across all devices
+* Double checked all links are working 
+* fixed newsletter breakpoint issues
+* fixed map breaking
 
 ## Deployment
 To deploy the website instead of pushing the site to the public html fodlers on the university computers or other servers. Deployment will come in the form of pushing the final version of the assignment to git. Where pages will be viewed view the GitHub Live view URL.
