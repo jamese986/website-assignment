@@ -27,6 +27,13 @@ My initial concept for this project was to create a one page website. I knew I w
 #### Clean, Modern and Minimalistic
 The website is aimed at tech savvy developers and people who are going to be knowledgeable about the latest web design trends. Firstly I wanted my website to be clean tidy and Minimalistic in it's initial presentation to the site visitors. This serves 2 purposes firstly from a design point of view it looks very pleasing and secondly a clean well structured site allows for information to be easily found. This allows people with accessibility issue to navigate far easier than something like a Geocities website from the 90's.
 
+### P.A.R.C Design principles
+I feel that by default my approach towards a minimal clean site goes hand in hand with the P.A.R.C design principles.
+Both my homepage and blog post page reflect the P.A.R.C design principles. Its particularly evident to see the repetition aspect of design on my homepage blog section
+
+
+
+
 The modern aspects of the design come in the form of a functional cross device cross platform responsiveness that means no matter the device the site will always look pleasing and remain functional. 
 #### I decided against a image slider and went with a static image because its less distracting to the user and wont cause any hiccups for older devices and browsers.
 
@@ -47,6 +54,8 @@ Obviously we weren't able to record the whole testing process but some of the th
 * Double checked all links are working 
 * fixed newsletter breakpoint issues
 * fixed map breaking
+
+During the testing phase i noticed that the time-line feature became very hard to read and use on smaller devices even after lots of changes to the media quries at the specific sizes as such i decided to remove the time-line from my homepage which now flows much better than before.
 
 ## Deployment
 To deploy the website instead of pushing the site to the public html fodlers on the university computers or other servers. Deployment will come in the form of pushing the final version of the assignment to git. Where pages will be viewed view the GitHub Live view URL.
